@@ -1,0 +1,294 @@
+@font-face{
+  font-family: MyFont;
+  src:url(kulimpark/KulimPark-Regular.ttf) ;
+}
+
+
+.frame {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .group-wrapper {
+    width: 1445px;
+    height: 1024px;
+  }
+  
+  .frame .group {
+    height: 1024px;
+  }
+  
+  .frame .overlap {
+    position: relative;
+    width: 1445px;
+    height: 1024px;
+  }
+  
+  .frame .overlap-wrapper {
+    position: absolute;
+    width: 1445px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+  }
+
+  .frame .materi-dataaa {
+    position: absolute;
+    width: 400px;
+    top: 25px;
+    left: 25px;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .frame .div-wrapper {
+    position: relative;
+    width: 450px;
+    height: 120px;
+    background-color: #6DE7C9;
+    border-radius: 100px;
+  }
+
+  .frame .group-3 {
+    position: absolute;
+    width: 452px;
+    height: 120px;
+    top: 518px;
+    left: 93px;
+  }
+  
+  .frame .overlap-group {
+    position: relative;
+    height: 1024px;
+  }
+  
+  .frame .data-analysis {
+    position: absolute;
+    width: 1442px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .div {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #fefefe;
+  }
+  
+  .frame .overlap-group-wrapper {
+    position: absolute;
+    width: 452px;
+    height: 120px;
+    top: 753px;
+    left: 93px;
+  }
+  
+  .frame .div-wrapper {
+    position: relative;
+    width: 450px;
+    height: 120px;
+    background-color: #6DE7C9;
+    border-radius: 100px;
+  }
+  
+  .frame .materi-statistics {
+    position: absolute;
+    width: 302px;
+    top: 47px;
+    left: 25px;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .group-2 {
+    position: absolute;
+    width: 452px;
+    height: 120px;
+    top: 285px;
+    left: 93px;
+  }
+  
+  .frame .materi-data {
+    position: absolute;
+    width: 391px;
+    top: 25px;
+    left: 25px;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .frame .materi-dataa {
+    position: absolute;
+    width: 391px;
+    top: 25px;
+    left: 25px;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .group-3 {
+    position: absolute;
+    width: 452px;
+    height: 120px;
+    top: 518px;
+    left: 93px;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 1440px;
+    height: 149px;
+    top: 43px;
+    left: 0;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .vector {
+    position: absolute;
+    width: 1445px;
+    height: 1px;
+    top: 212px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .back {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 53px;
+    left: 43px;
+    background-color: #d9d9d9;
+    border-radius: 50px;
+  }
+  
+  .frame .arrow {
+    position: absolute;
+    width: 170px;
+    height: 120px;
+    top: -5px;
+    left: -30px;
+  }
+  
+  .frame .group-4 {
+    position: absolute;
+    width: 907px;
+    height: 664px;
+    top: 272px;
+    left: 551px;
+  }
+  
+  .frame .overlap-2 {
+    position: relative;
+    width: 905px;
+    height: 664px;
+  }
+
+  .frame .rectangle {
+    position: absolute;
+    width: 643px;
+    height: 664px;
+    top: 0;
+    left: 132px;
+    background-color: #bfffc280;
+    border-radius: 25px;
+  }
+
+  .frame .MY-web-removebg {
+    position: absolute;
+    width: 905px;
+    height: 558px;
+    top: 34px;
+    left: 0;
+    object-fit: cover;
+  }
+
+  .frame .text-wrapper-2 {
+    position: absolute;
+    width: 578px;
+    top: 45px;
+    left: 198px;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .frame .div-wrapper-2 {
+    position: absolute;
+    width: 523px;
+    height: 42px;
+    top: 456px;
+    left: 193px;
+    background-color: #6DE7C9;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    top: 8px;
+    left: 244px;
+    font-family: MyFont;
+    font-weight: 600;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .p {
+    position: absolute;
+    width: 466px;
+    height: 278px;
+    top: 50px;
+    left: 130px;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .gariss{
+    position: relative;
+    top: 180px;
+  }
+
+  .back{
+    position: relative;
+    margin-left: 80px;
+    margin-top: -20px;
+  }

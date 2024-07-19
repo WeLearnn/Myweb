@@ -1,0 +1,84 @@
+.logout {
+    position: relative;
+    width: 656px;
+    height: 756px;
+    background-color: #d9d9d91a;
+    border-radius: 14px;
+    box-shadow: inset -47.07px 47.07px 47.07px #ffffff1a, inset 47.07px -47.07px 47.07px #a4a4a41a;
+    backdrop-filter: blur(94.13px) brightness(100%);
+    -webkit-backdrop-filter: blur(94.13px) brightness(100%);
+  }
+  
+  .logout .apakah {
+    position: absolute;
+    width: 386px;
+    height: 119px;
+    top: 187px;
+    left: 134px;
+    font-family: "Kulim Park-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .logout .grupp {
+    left: 78px;
+    position: absolute;
+    width: 215px;
+    height: 66px;
+    top: 522px;
+  }
+  
+  .logout .overlap-grupp {
+    background-color: #2ee011;
+    position: relative;
+    width: 213px;
+    height: 66px;
+    border-radius: 15px;
+  }
+  
+  .logout .diva {
+    position: absolute;
+    height: 51px;
+    top: 7px;
+    left: 75px;
+    font-family: "Kulim Park-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .logout .overlap-tidak {
+    left: 356px;
+    position: absolute;
+    width: 215px;
+    height: 66px;
+    top: 522px;
+  }
+  
+  .logout .tidak {
+    background-color: #ff0000;
+    position: relative;
+    width: 213px;
+    height: 66px;
+    border-radius: 15px;
+  }
+  
+  .logout .text-tidak {
+    position: absolute;
+    height: 51px;
+    top: 7px;
+    left: 48px;
+    font-family: "Kulim Park-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

@@ -1,0 +1,137 @@
+@font-face{
+  font-family: MyFont;
+  src:url(kulimpark/KulimPark-Regular.ttf) ;
+}
+
+.blockchain-materi {
+    background-color: #fefefe;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .blockchain-materi .div {
+    background-color: #fefefe;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .blockchain-materi .back {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 25px;
+    left: 40px;
+    background-color: #3a3131;
+    border-radius: 50px;
+  }
+  
+  .blockchain-materi .arrow {
+    position: absolute;
+    width: 145px;
+    height: 100px;
+    top: -15px;
+    left: -32px;
+  }
+  
+  .blockchain-materi .flexcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    position: absolute;
+    width: 1304px;
+    height: 585px;
+    top: 216px;
+    left: 83px;
+  }
+  
+  .blockchain-materi .text {
+    position: relative;
+    align-self: stretch;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .blockchain-materi .text-wrapper {
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+  }
+  
+  .blockchain-materi .group {
+    position: absolute;
+    width: 421px;
+    height: 56px;
+    top: 900px;
+    left: 72px;
+  }
+  
+  .blockchain-materi .image {
+    position: absolute;
+    width: 44px;
+    height: 56px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .blockchain-materi .text-wrapper-2 {
+    position: absolute;
+    width: 500px;
+    height: 56px;
+    top: 15px;
+    left: 54px;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .blockchain-materi .checklist {
+    position: absolute;
+    width: 37px;
+    height: 33px;
+    top: 11px;
+    left: 382px;
+  }
+  
+  .blockchain-materi .p {
+    position: absolute;
+    width: 500px;
+    height: 200px;
+    top: 146px;
+    left: 19px;
+    font-family: MyFont;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+ li.bulet{
+    color: #000000;
+    list-style-type: disc;
+  }
+
+  .ckbok{
+    position: relative;
+    left: 380px;
+    top: 17px;
+    border-radius: 100px;
+    width: 40px;
+    height: 20px;
+    border: 1px solid #000000;
+  }

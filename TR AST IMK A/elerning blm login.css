@@ -1,0 +1,627 @@
+@font-face{
+  font-family: MyFont;
+  src:url(kulimpark/KulimPark-Regular.ttf) ;
+}
+
+h2.myweb {
+  font-family: MyFont;
+  font-size: 35px;
+}
+.sebelum-login {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sebelum-login .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1800px;
+  position: relative;
+}
+
+.sebelum-login .group {
+  position: absolute;
+  width: 1200px;
+  height: 510px;
+  top: 132px;
+  left: -86px;
+}
+
+.sebelum-login .overlap {
+  position: relative;
+  width: 1466px;
+  height: 510px;
+  left: 86px;
+  top: 70px;
+}
+
+.sebelum-login .background {
+  position: absolute;
+  width: 1300px;
+  height: 350px;
+  top: -20px;
+  left: 26px;
+  background-color: #8bff8fa1;
+  border-radius: 35px;
+}
+
+.sebelum-login .masuk-lihat-materi {
+  position: absolute;
+  width: 643px;
+  height: 60px;
+  top: 408px;
+  left: 563px;
+}
+
+.sebelum-login .overlap-group-wrapper {
+  position: absolute;
+  width: 352px;
+  height: 60px;
+  top: -100px;
+  left: 20px;
+}
+
+.sebelum-login .overlap-group {
+  position: relative;
+  width: 270px;
+  height: 60px;
+  background-color: #6DE7C9;
+  border-radius: 15px;
+}
+
+.sebelum-login .text-wrapper {
+  position: absolute;
+  width: 350px;
+  height: 60px;
+  top: 10px;
+  left: -41px;
+  font-family: MyFont;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sebelum-login .overlap-wrapper {
+  position: absolute;
+  width: 252px;
+  height: 60px;
+  top: -100px;
+  left: 350px;
+}
+
+.sebelum-login .div-wrapper {
+  position: relative;
+  width: 250px;
+  height: 60px;
+  background-color: #2ee011;
+  border-radius: 15px;
+}
+
+.sebelum-login .text-wrapper-2 {
+  position: absolute;
+  width: 250px;
+  height: 60px;
+  top: 10px;
+  left: 0;
+  font-family: MyFont;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sebelum-login .kuasai-berbagai1 {
+  position: absolute;
+  width: 905px;
+  top: 60px;
+  left: 470px;
+  font-family: MyFont;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sebelum-login .span {
+  font-family: MyFont;
+  font-weight: 400px;
+  color: #000000;
+  font-size: 55px;
+  letter-spacing: 0;
+}
+
+.sebelum-login .text-wrapper-3 {
+  position: absolute;
+  top: 100px;
+  font-size: 36px;
+}
+
+.sebelum-login .MY-web-removebg {
+  width: 700px;
+  height: 394px;
+  top: -50px;
+  left: -100px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.sebelum-login .overlap-2 {
+  position: absolute;
+  width: 1219px;
+  height: 514px;
+  top: 657px;
+  left: 80px;
+}
+
+.sebelum-login .frame {
+  position: absolute;
+  width: 1219px;
+  height: 402px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  overflow-x: scroll;
+}
+
+.sebelum-login .group-2 {
+  position: relative;
+  width: 3374px;
+  height: 404px;
+  top: -2px;
+  background-color: #fefefe;
+}
+
+.sebelum-login .main {
+  position: absolute;
+  width: 1112px;
+  height: 369px;
+  top: 18px;
+  left: 0;
+  object-fit: cover;
+}
+
+.sebelum-login .elearning {
+  position: absolute;
+  width: 1110px;
+  height: 369px;
+  top: 18px;
+  left: 1132px;
+  object-fit: cover;
+}
+
+.sebelum-login .bootcamp {
+  position: absolute;
+  width: 1112px;
+  height: 369px;
+  top: 17px;
+  left: 2262px;
+  object-fit: cover;
+}
+
+.sebelum-login .text-wrapper-4 {
+  position: absolute;
+  width: 690px;
+  height: 113px;
+  top: 580px;
+  left: 60px;
+  font-family: MyFont;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sebelum-login .group-wrapper {
+  position: absolute;
+  width: 330px;
+  height: 419px;
+  top: 1182px;
+  left: 43px;
+}
+
+.sebelum-login .group-3 {
+  width: 332px;
+  height: 419px;
+}
+
+.sebelum-login .overlap-group-2 {
+  position: relative;
+  width: 310px;
+  height: 410px;
+  background-color: #6DE7C9;
+  border-radius: 15px;
+}
+
+.sebelum-login .whatsapp-image {
+  position: absolute;
+  width: 310px;
+  height: 348px;
+  top: 71px;
+  left: 0;
+  object-fit: cover;
+}
+
+.sebelum-login .text-wrapper-5 {
+  position: absolute;
+  width: 160px;
+  top: 22px;
+  left: 72px;
+  font-family: MyFont;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sebelum-login .frame-2 {
+  position: absolute;
+  width: 330px;
+  height: 419px;
+  top: 1182px;
+  left: 378px;
+}
+
+.sebelum-login .text-wrapper-6 {
+  position: absolute;
+  width: 215px;
+  top: 22px;
+  left: 47px;
+  font-family: MyFont;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sebelum-login .frame-3 {
+  position: absolute;
+  width: 330px;
+  height: 427px;
+  top: 1182px;
+  left: 710px;
+}
+
+.sebelum-login .group-4 {
+  width: 332px;
+  height: 427px;
+}
+
+.sebelum-login .overlap-group-3 {
+  position: relative;
+  width: 330px;
+  height: 420px;
+  background-color: #b6ffb9;
+  border-radius: 15px;
+}
+
+.sebelum-login .frame-4 {
+  position: absolute;
+  width: 330px;
+  height: 419px;
+  top: 1182px;
+  left: 1040px;
+}
+
+.sebelum-login .footer {
+  position: absolute;
+  width: 1440px;
+  height: 557px;
+  top: 1300px;
+  left: 0;
+  background-color: transparent;
+}
+
+.sebelum-login .overlap-3 {
+  position: relative;
+  width: 1440px;
+  height: 557px;
+}
+
+.sebelum-login .MY-web-removebg-2 {
+  width: 500px;
+  height: 700px;
+  top: -170px;
+  left: 455px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.sebelum-login .rectangle {
+  width: 1440px;
+  height: 49px;
+  top: 590px;
+  background-color: #6DE7C9;
+  position: absolute;
+  left: 0;
+}
+
+.sebelum-login .frame-5 {
+  position: absolute;
+  width: 350px;
+  height: 120px;
+  top: 400px;
+  left: 540px;
+}
+
+.sebelum-login .frame-6 {
+  position: absolute;
+  width: 426px;
+  height: 35px;
+  top: 460px;
+  left: 557px;
+}
+
+.sebelum-login .overlap-group-4 {
+  position: relative;
+  height: 35px;
+}
+
+.sebelum-login .element-all-right {
+  position: absolute;
+  width: 401px;
+  top: 59px;
+  left: -14px;
+  font-family: MyFont;
+  font-weight: 600;
+  color: transparent;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sebelum-login .text-wrapper-7 {
+  color: #acabab;
+}
+
+.sebelum-login .text-wrapper-8 {
+  color: cyan;
+}
+
+.sebelum-login .icon-park-outline {
+  position: absolute;
+  width: 38px;
+  height: 35px;
+  top: 55px;
+  left: -40px;
+}
+
+.sebelum-login .navbar-home-sebelum {
+  position: fixed;
+  width: 1440px;
+  height: 104px;
+  top: 0;
+  left: 0;
+}
+
+.sebelum-login .overlap-4 {
+  position: relative;
+  height: 104px;
+}
+
+.sebelum-login .frame-7 {
+  position: absolute;
+  width: 1440px;
+  height: 104px;
+  top: 0;
+  left: 0;
+}
+
+.sebelum-login .group-5 {
+  width: 1442px;
+  height: 104px;
+}
+
+.sebelum-login .overlap-group-5 {
+  position: relative;
+  width: 1440px;
+  height: 104px;
+  background-color: #fefefe;
+}
+
+.sebelum-login .text-wrapper-9 {
+  position: absolute;
+  width: 297px;
+  height: 39px;
+  top: 33px;
+  left: 35px;
+  font-family: MyFont;
+  font-weight: 400;
+  color: #000000;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.sebelum-login .menu-navbar {
+  position: absolute;
+  width: 1023px;
+  height: 54px;
+  top: 25px;
+  left: 389px;
+}
+
+.sebelum-login .elearning-2 {
+  position: absolute;
+  width: 187px;
+  height: 52px;
+  top: 0;
+  left: 210px;
+}
+
+.sebelum-login .overlap-group-6 {
+  position: relative;
+  height: 51px;
+  top: 1px;
+  background-color: #fefefe;
+  border-radius: 17px;
+}
+
+.sebelum-login .text-wrapper-10 {
+  position: absolute;
+  width: 109px;
+  height: 50px;
+  top: 0;
+  left: 39px;
+  font-family: MyFont;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sebelum-login .paket {
+  position: absolute;
+  width: 187px;
+  height: 52px;
+  top: 0;
+  left: 420px;
+}
+
+.sebelum-login .overlap-5 {
+  position: relative;
+  height: 53px;
+  top: -1px;
+}
+
+.sebelum-login .rectangle-2 {
+  width: 187px;
+  height: 51px;
+  top: 2px;
+  background-color: #fefefe;
+  border-radius: 17px;
+  position: absolute;
+  left: 0;
+}
+
+.sebelum-login .text-wrapper-11 {
+  position: absolute;
+  width: 94px;
+  height: 50px;
+  top: 0;
+  left: 59px;
+  font-family: MyFont;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sebelum-login .login {
+  width: 187px;
+  height: 52px;
+  left: 630px;
+  position: absolute;
+  top: 0;
+}
+
+.sebelum-login .register {
+  position: absolute;
+  width: 187px;
+  height: 52px;
+  top: 0;
+  left: 840px;
+}
+
+.sebelum-login .text-wrapper-12 {
+  position: absolute;
+  width: 94px;
+  height: 50px;
+  top: 0;
+  left: 47px;
+  font-family: MyFont;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sebelum-login .frame-8 {
+  position: absolute;
+  width: 187px;
+  height: 48px;
+  top: 28px;
+  left: 387px;
+}
+
+.sebelum-login .overlap-6 {
+  position: relative;
+  height: 49px;
+  top: -1px;
+  left: 2px;
+}
+
+.sebelum-login .rectangle-3 {
+  width: 187px;
+  height: 48px;
+  top: 1px;
+  background-color: #2ee011;
+  border-radius: 12px;
+  position: absolute;
+  left: 0;
+}
+
+.sebelum-login .text-wrapper-13 {
+  position: absolute;
+  width: 78px;
+  height: 48px;
+  top: 0;
+  left: 53px;
+  font-family: MyFont;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+div.materii {
+  position: relative;
+  top: -500px;
+  left: -1360px;
+}
+.hover1 {
+  border-radius: 5px;
+  background-color: cyan;
+  }
+
+  .hover2:hover{
+      border-radius: 5px;
+      background-color: cyan;
+  }
+
+  .tulisanatas{
+    position: absolute;
+    font-weight: bold;
+    font-size: 40px;
+    left: 50px;
+    top: 80px;
+    color: #6DE7C9;
+    font-family: MyFont;
+  }
+
+  .group-3:hover{
+    transform: scale(1.1,1.1);
+  }
